@@ -1,0 +1,22 @@
+# Project 01 – Does Electric Car Really Help the Environment?
+
+## 🔍 Problem Statement
+Electric vehicles are often marketed as an eco-friendly solution—but is that always true? I wanted to explore whether EVs really reduce carbon emissions across their entire lifecycle.
+
+## 🧠 Approach
+- Lifecycle analysis of electric cars (production → usage → disposal)
+- Comparison with internal combustion engine vehicles
+- Data sources from carbon footprint reports and government data
+
+## 📊 Key Insights
+- EVs produce 2x emissions during production (mostly battery)
+- Break-even occurs after ~2-3 years of use depending on region's energy mix
+- End-of-life battery recycling infrastructure still underdeveloped
+
+## 🛠️ Tools Used
+- Python (Pandas, Matplotlib)
+- Public Datasets (IEA, EPA, EEA)
+- Jupyter Notebook
+
+## 💡 Takeaway
+EVs *can* be eco-friendly, but only under certain energy and recycling conditions. Policy should focus on both upstream (production) and downstream (disposal) sustainability.
